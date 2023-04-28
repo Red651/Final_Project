@@ -12,8 +12,9 @@ KELOMPOK 2:<br>
 
 ---
 Sumber Dataset:<br>
-<center><a src="https://www.kaggle.com/datasets/brllrb/uber-and-lyft-dataset-boston-ma">Uber and Lyft Dataset Boston, MA</a>
+link: https://www.kaggle.com/datasets/brllrb/uber-and-lyft-dataset-boston-ma
 
+---
 
 Objectives/goal:
 
