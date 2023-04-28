@@ -9,8 +9,8 @@ KELOMPOK 2:<br>
 <li>Widawati Annisa Putri</li>
 <li>Muhammad Farhan Atsar Ghiffari</li>
 </ol>
-
-Sumber Dataset: <br>
+---
+Sumber Dataset:<br>
 <center><a src="https://www.kaggle.com/datasets/brllrb/uber-and-lyft-dataset-boston-ma">Uber and Lyft Dataset Boston, MA</a>
 
 
